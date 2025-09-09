@@ -1,0 +1,67 @@
+
+/* ==== IZQUIERDA ==== */
+#cli-con-cal-disp {
+  display: none;
+}
+#cli-sen-pre-disp {
+  display: none;
+}
+#cli-int-pro-disp {
+  display: none;
+}
+#cli-mon-rem-disp {
+  display: none;
+}
+#cli-int-cli-disp {
+  display: none;
+}
+#cli-com-ilu-disp {
+  display: none;
+}
+#cli-pan-sol-disp {
+  display: none;
+}
+#cli-int-art-disp {
+  display: none;
+}
+#cli-det-fug-disp {
+  display: none;
+}
+#cli-apa-aut-disp {
+  display: none;
+}
+
+/* ==== DERECHA ==== */
+#cli-mon-pro-disp {
+  display: none;
+}
+#cli-alm-bat-disp {
+  display: none;
+}
+#cli-pri-ene-disp {
+  display: none;
+}
+#cli-mon-con-disp {
+  display: none;
+}
+#cli-ale-pic-disp {
+  display: none;
+}
+#cli-esc-pro-disp {
+  display: none;
+}
+#cli-esc-aho-disp {
+  display: none;
+}
+#cli-ale-aut-disp {
+  display: none;
+}
+#cli-sen-ven-disp {
+  display: none;
+}
+#cli-ven-ia-disp {
+  display: none;
+}
+#cli-pur-air-disp {
+  display: none;
+}
